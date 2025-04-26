@@ -2,4 +2,3 @@ sample1
 tarou
 good evening
 world
-I come from Japan.
