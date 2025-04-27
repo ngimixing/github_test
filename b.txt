@@ -2,4 +2,4 @@ sample2
 tarou
 good evening
 hello
-I come from Japan.          
+I come from Japan.
